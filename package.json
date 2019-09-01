@@ -8,7 +8,7 @@
     "eslint": "eslint ./lib --fix"
   },
   "keywords": [],
-  "author": "spicyboiledfish",
+  "author": "wangrui",
   "license": "ISC",
   "devDependencies": {
     "assert": "^2.0.0",
