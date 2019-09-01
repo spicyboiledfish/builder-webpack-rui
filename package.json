@@ -1,5 +1,5 @@
 {
-  "name": "builder-webpack",
+  "name": "builder-webpack-rui",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "eslint": "eslint ./lib --fix"
   },
   "keywords": [],
-  "author": "",
+  "author": "spicyboiledfish",
   "license": "ISC",
   "devDependencies": {
     "assert": "^2.0.0",
